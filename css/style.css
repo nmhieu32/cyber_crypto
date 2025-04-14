@@ -1,0 +1,14 @@
+body {
+    background-color: #151937;
+    color: white;
+}
+
+.py-5 {
+    padding-top: 1.25rem;
+}
+
+.text-gradient {
+    background: linear-gradient(to right, #ff5ea3, #ffa7a9);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
